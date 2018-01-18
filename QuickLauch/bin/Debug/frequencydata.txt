@@ -1,0 +1,8 @@
+﻿calc.exe
+1
+notepad.exe
+2
+chess.exe
+2
+find.exe
+1
