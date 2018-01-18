@@ -1011,14 +1011,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuickLauch.exe" size="771600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuickLauch.exe" size="768512">
       <assemblyIdentity name="QuickLauch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XoJ7xh66tGtQjBxcnilhiY7pNcZhBEQpp7S4JVG67ic=</dsig:DigestValue>
+        <dsig:DigestValue>fEhUHzwRlV8qYV/43BFZWaIC+qo1/ogc05hcEFpC2yQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -163,7 +163,6 @@
             this.labelControl1.Size = new System.Drawing.Size(34, 14);
             this.labelControl1.TabIndex = 1;
             this.labelControl1.Text = "Open:";
-            this.labelControl1.Click += new System.EventHandler(this.labelControl1_Click);
             // 
             // textBox1
             // 

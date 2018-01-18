@@ -45,7 +45,7 @@ namespace QuickLauch
             }
             return CallNextHookEx(_hookID, nCode, wParam, lParam);
         }
-        
+
         public Hook()
         {
             _hookID = SetHook(_proc);

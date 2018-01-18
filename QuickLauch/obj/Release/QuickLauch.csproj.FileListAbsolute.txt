@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\bin\Release\QuickLauch.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\bin\Release\QuickLauch.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\bin\Release\QuickLauch.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\bin\Release\QuickLauch.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\bin\Release\QuickLauch.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.QuickLaunch.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.Statics.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.exe.licenses
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QuickLauch\QuickLauch\obj\Release\QuickLauch.pdb
